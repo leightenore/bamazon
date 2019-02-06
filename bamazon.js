@@ -95,7 +95,7 @@ function itemQuantity(id) {
                         });
                 }
                 else {
-                    console.log("We do not have enough items in inventory to fulfill your order. Please decrease the quantity of your order to proceed.");
+                    console.log("Insufficient quantity! We do not have enough items in inventory to fulfill your order. Please decrease the quantity of your item to proceed.");
                     itemQuantity(id);
                 }
             });
