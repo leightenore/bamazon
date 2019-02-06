@@ -13,5 +13,5 @@ Bamazon is a CLI application built with node.js.  The app presents the user with
 * The user will then be prompted to enter how many of the item they would like to purchase. If the user's input exceeds the inventory quantity listed in the database, the app will inform the user and prompt them again to choose a lower quantity.
 ![Not Enough Inventory to Fulfill Order](./screenshots/3.png)
 
-* If the user enters a number less than or equal to the quanity of that item listed in the database, then the order will be fulfilled. The user will be given to total price for the number of items purchased and the item quanity listed in the database will be updated to display the current number of items that remain in inventory.
+* If the user enters a number less than or equal to the quanity of that item listed in the database, then the order will be fulfilled. The user will be given the total price for the number of items purchased and the item quanity listed in the database will be updated to display the current number of items that remain in inventory.
 ![Successful Purchase](./screenshots/4.png)
