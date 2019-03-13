@@ -2,7 +2,7 @@
 
 ## Description 
 
-Bamazon is a CLI application built with node.js.  The app presents the user with items available for "purchase". The item id numbers and prices are pulled from a mySQL database. This app utilizes the "inquirer" and "mysql" npm packages.
+Bamazon is a command line interface application built with node.js.  The app presents the user with items available for "purchase". The item id numbers and prices are pulled from a mySQL database. This app utilizes the "inquirer" and "mysql" npm packages.
 
 ### User Guide
 
