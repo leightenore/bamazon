@@ -1,5 +1,7 @@
 # Bamazon
 
+## Description 
+
 Bamazon is a CLI application built with node.js.  The app presents the user with items available for "purchase". The item id numbers and prices are pulled from a mySQL database. This app utilizes the "inquirer" and "mysql" npm packages.
 
 ### User Guide
@@ -15,3 +17,13 @@ Bamazon is a CLI application built with node.js.  The app presents the user with
 
 * If the user enters a number less than or equal to the quanity of that item listed in the database, then the order will be fulfilled. The user will be given the total price for the number of items purchased and the item quanity listed in the database will be updated to display the current number of items that remain in inventory.
 ![Successful Purchase](./screenshots/4.png)
+
+
+### Technologies Utilized
+
+* JavaScript
+* MySQL
+* Node.js
+* NPM Packages
+  * MySQL
+  * Inquirer
